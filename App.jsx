@@ -3,7 +3,7 @@ import * as RN from 'react-native';
 const { Configuration, OpenAIApi } = require("openai");
 import axios from 'axios';
 const configuration = new Configuration({
-  apiKey: "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"
+  apiKey: 'use your openai api key'
 })
 
 export default function App() {
