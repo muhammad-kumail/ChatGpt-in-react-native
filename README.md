@@ -5,4 +5,4 @@ Implemented ChatGpt in react native
 ## Execution
 commands: `npm install` & `npm run android`
 ## Note
-Use you Openai api key in App.jsx
+Use you Openai api key in App.jsx See: https://platform.openai.com/account/api-keys
